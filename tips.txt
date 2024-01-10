@@ -1,0 +1,13 @@
+Exploration tips:
+- share of won games for players by surface – are all players universal, or is the surface
+important for some of them?
+- individual metrics of play quality (i. e. share of doublefaults) – are some players
+special?
+- correlation of match result and ranking before the match, with possible relationship
+to surface
+- “favourite” opponents – highly unbalanced long-term score between rather equally
+ranked players
+
+Model tips:
+- prediction of the next match result
+- prediction of match feature value (duration, number of games, number of aces etc.)
